@@ -1,0 +1,22 @@
+
+.happy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .centre{
+      text-align: center;
+  }
+
+  .centre h2{
+      padding-left: 30%;
+      padding-right: 30%;
+  }
+
+   button{
+    background-color: #008CBA;
+    color: white;
+    border-radius: 12px;
+    font-size: 30px;
+    border: none;
+   }
